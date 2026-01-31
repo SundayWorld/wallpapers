@@ -122,8 +122,9 @@ fantasy/
    cats_10.webp
    cats_11.webp
    cats_12.webp
-  cats_13.webp
- birds/
+   cats_13.webp
+  
+  birds/
    birds_1.webp
    birds_2.webp
    birds_3.webp
@@ -254,7 +255,23 @@ fantasy/
    gaming_14.webp
    gaming_15.webp
    gaming_16.webp
-├─ space/
+space/
+    space_1.webp
+    space_2.webp
+    space_3.webp
+    space_4.webp
+    space_5.webp
+    space_6.webp
+    space_7.webp
+    space_8.webp
+    space_9.webp
+    space_10.webp
+    space_11.webp
+    space_12.webp
+    space_13.webp
+    space_14.webp
+    space_15.webp
+    space_16.webp
 ai_art/
   ai_art_1.webp
   ai_art_2.webp
@@ -278,7 +295,7 @@ ai_art/
   ai_art_20.webp
   ai_art_21.webp
   ai_art_22.webp 
- flowers/
+flowers/
    flowers_1.webp
    flowers_2.webp
    flowers_3.webp
@@ -310,8 +327,26 @@ ai_art/
    city_urban_13.webp
    city_urban_14.webp
    city_urban_15.webp
-├─ cyberpunk/
-├─ quotes/
+ cyberpunk/
+     cyberpunk_1.webp
+     cyberpunk_2.webp
+     cyberpunk_3.webp
+     cyberpunk_4.webp
+     cyberpunk_5.webp
+     cyberpunk_6.webp
+     cyberpunk_7.webp
+     cyberpunk_8.webp
+     cyberpunk_9.webp
+     cyberpunk_10.webp
+     cyberpunk_11.webp
+     cyberpunk_12.webp
+     cyberpunk_13.webp
+     cyberpunk_14.webp
+     cyberpunk_15.webp
+     cyberpunk_16.webp
+     cyberpunk_17.webp
+     cyberpunk_18.webp
+ quotes/
     quotes_1.webp
     quotes_2.webp
     quotes_3.webp
@@ -336,8 +371,33 @@ ai_art/
     quotes_22.webp
     quotes_23.webp
     quotes_24.webp
-├─ cars/
-├─ minimal/
+ cars/
+    cars_1.webp
+    cars_2.webp
+    cars_3.webp
+    cars_4.webp
+    cars_5.webp
+    cars_6.webp
+    cars_7.webp
+    cars_8.webp
+    cars_9.webp
+    cars_10.webp
+    cars_11.webp
+    cars_12.webp
+    cars_13.webp
+    cars_14.webp
+    cars_15.webp
+    cars_16.webp
+    cars_17.webp
+    cars_18.webp
+    cars_19.webp
+    cars_20.webp
+    cars_21.webp
+    cars_22.webp
+    cars_23.webp
+    cars_24.webp
+    cars_25.webp
+ minimal/
      minimal_1.webp
      minimal_2.webp
      minimal_3.webp
@@ -362,6 +422,91 @@ ai_art/
      minimal_22.webp
      minimal_23.webp
      minimal_24.webp
-├─ motorbike/
-├─ quiet_icons/
-├─ retro_vintage/
+ motorbike/
+     motorbike_1.webp
+     motorbike_2.webp
+     motorbike_3.webp
+     motorbike_4.webp
+     motorbike_5.webp
+     motorbike_6.webp
+     motorbike_7.webp
+     motorbike_8.webp
+     motorbike_9.webp
+     motorbike_10.webp
+     motorbike_11.webp
+     motorbike_12.webp
+     motorbike_13.webp
+     motorbike_14.webp
+     motorbike_15.webp
+     motorbike_16.webp
+     motorbike_17.webp
+     motorbike_18.webp
+     motorbike_19.webp
+     motorbike_20.webp
+     motorbike_21.webp
+     motorbike_22.webp
+     motorbike_23.webp
+     motorbike_24.webp
+     motorbike_25.webp
+     motorbike_26.webp
+     motorbike_27.webp
+     motorbike_28.webp
+     motorbike_29.webp
+     motorbike_30.webp
+     motorbike_31.webp
+     motorbike_32.webp
+     motorbike_33.webp
+     motorbike_34.webp
+     motorbike_35.webp
+     motorbike_36.webp
+     motorbike_37.webp
+     motorbike_38.webp
+     motorbike_39.webp
+     motorbike_40.webp
+     motorbike_41.webp
+     motorbike_42.webp
+     motorbike_43.webp
+     motorbike_44.webp
+     motorbike_45.webp
+     motorbike_46.webp
+     motorbike_47.webp
+ quiet_icons/
+      quiet_icons_1.webp
+      quiet_icons_2.webp
+      quiet_icons_3.webp
+      quiet_icons_4.webp
+      quiet_icons_5.webp
+      quiet_icons_6.webp
+      quiet_icons_7.webp
+      quiet_icons_8.webp
+      quiet_icons_9.webp
+      quiet_icons_10.webp
+      quiet_icons_11.webp
+      quiet_icons_12.webp
+      quiet_icons_13.webp
+      quiet_icons_14.webp
+      quiet_icons_15.webp
+      quiet_icons_16.webp
+      quiet_icons_17.webp
+      quiet_icons_18.webp
+      quiet_icons_19.webp
+      quiet_icons_20.webp
+      quiet_icons_21.webp
+      quiet_icons_22.webp
+      quiet_icons_23.webp
+      quiet_icons_24.webp
+ retro_vintage/
+      retro_1.webp
+      retro_2.webp
+      retro_3.webp
+      retro_4.webp
+      retro_5.webp
+      retro_6.webp
+      retro_7.webp
+      retro_8.webp
+      retro_9.webp
+      retro_10.webp
+      retro_11.webp
+      retro_12.webp
+      retro_13.webp
+      retro_14.webp
